@@ -1,6 +1,3 @@
-
-![Descricao da sua imagem](img/screenshot1.png)
-
 # 🛒 Lista de Compras
 
 Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
